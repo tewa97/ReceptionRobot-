@@ -1,6 +1,6 @@
-<p align="center">
+<!--p align="center">
 <img src="https://www.xeos.care/images/product-xeos-2.png" width="30%">
-</p>
+</p-->
 
 
 # Mobile app
